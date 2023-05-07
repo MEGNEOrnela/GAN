@@ -15,5 +15,5 @@ To be able to run the code as a script, you have  to (in your terminal):
 ```
 * run the train.py file
 ```bash
-$ python train.py
+ python train.py
 ```
